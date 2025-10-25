@@ -7,7 +7,7 @@
 
 ### step 2 load the file
 ```bash
-(load "C:/Users/Paranie/Desktop/language-selector/lang-selector.clp")
+(load "C:/Users/Paranie/Desktop/language-selector/language-selector.clp")
 ```
 
 ### step 3 run clips
